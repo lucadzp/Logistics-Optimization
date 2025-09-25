@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.map-container {
+  height: 800px;
+  width: 800px; /* Ajusta el valor según tus necesidades */
+ 
+}
+
+
+body {
+  margin: 0;
+ 
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+
+#root {
+ 
+  margin-top: 70px;
+
+
+}
+
+
+
